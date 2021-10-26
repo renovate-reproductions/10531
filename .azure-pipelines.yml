@@ -1,0 +1,5 @@
+resources:
+  repositories:
+    - type: github
+      name: renovate/renovate
+      ref: refs/tags/28.10.0
