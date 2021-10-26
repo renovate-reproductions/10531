@@ -1,5 +1,5 @@
 resources:
   repositories:
     - type: github
-      name: renovate/renovate
+      name: renovatebot/renovate
       ref: refs/tags/28.10.0
